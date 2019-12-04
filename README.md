@@ -6,5 +6,5 @@ Click on "Obesity Rates in the US.pptx" and download to see the final presentati
 
 Group project (3 person team)
  - Select topic, find data source, retrieve data to analyze
- - Must utilize Pandas, Jupyter Notebook, Matplotlib, Git Bash and Github
+ - Must utilize Pandas, Jupyter Notebook, Matplotlib, GitBash and GitHub
  - Present the project details and analysis using PowerPoint
